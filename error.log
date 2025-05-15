@@ -1,0 +1,19 @@
+2025-05-15 18:46:45,012 - ERROR - Attempted to divide by zero.
+Traceback (most recent call last):
+  File "C:\Users\prana\AppData\Local\Temp\ipykernel_18200\425808199.py", line 12, in divide_numbers
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2025-05-15 18:48:21,687 - ERROR - This is an ERROR message.
+2025-05-15 18:48:21,687 - CRITICAL - This is a CRITICAL message.
+2025-05-15 18:52:42,145 - ERROR - This is an ERROR message.
+2025-05-15 18:52:42,145 - CRITICAL - This is a CRITICAL message.
+2025-05-15 19:02:50,107 - ERROR - Attempted to divide by zero.
+Traceback (most recent call last):
+  File "C:\Users\prana\AppData\Local\Temp\ipykernel_18200\425808199.py", line 12, in divide_numbers
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2025-05-15 19:12:27,117 - INFO - This is an info message.
+2025-05-15 19:12:27,118 - ERROR - This is an error message.
+2025-05-15 19:17:19,299 - ERROR - Error occurred while handling the file 'non_existent_file.txt': [Errno 2] No such file or directory: 'non_existent_file.txt'
